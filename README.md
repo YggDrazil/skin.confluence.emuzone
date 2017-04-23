@@ -1,4 +1,4 @@
 # skin.confluence.emuzone
-![Title](icon.png)
+![alt tag] (http://kodinerds.bplaced.net/icon.png)
 
 Modifizierter Skin für XBMC
